@@ -3,8 +3,7 @@
 - 🌱 I am currently learning web-scrapping and plan to learn cloud computing next.
 - 💞️ Feel free to contact me if you would like to share ideas.
 
-"Just because something works doesn't mean it can't be improved"
-- Shuri, Black Panther
+"Just because something works doesn't mean it can't be improved"  - Shuri, Black Panther
 
 <!---
 basanth2191/basanth2191 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
