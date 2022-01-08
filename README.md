@@ -4,6 +4,9 @@
 - 🌱 I am currently learning web-scrapping and plan to learn cloud computing next.
 - 💞️ Feel free to contact me if you would like to share ideas.
 
+Skills
+<img src = "https://img.shields.io/badge/Code-Python-orange" >  <img src = "" >  <img src = "" >  <img src = "" >  <img src = "" >  <img src = "" >  <img src = "" >  <img src = "" >  
+
 "Just because something works doesn't mean it can't be improved"  - Shuri, Black Panther
 
 
