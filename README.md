@@ -1,4 +1,4 @@
-<h2> Hi 👋 </h2>
+<h2> Hi <img src = "https://github.com/basanth2191/basanth2191/blob/main/wave.gif" > </h2>
 
 I am Basanth Shankar and welcome to my page.
 
