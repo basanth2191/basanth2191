@@ -1,6 +1,6 @@
 # Hi  <img src = "https://github.com/basanth2191/basanth2191/blob/main/wave.gif" width = "30px" >
 
-< img src = "https://github.com/basanth2191/basanth2191/blob/main/header.gif" >
+<img src = "https://github.com/basanth2191/basanth2191/blob/main/header.gif" >
 
 A little about me,
 
