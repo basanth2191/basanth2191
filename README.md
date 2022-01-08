@@ -12,7 +12,7 @@ Skills
 
 <img src = "https://img.shields.io/badge/Code-Python-red" >  <img src = "https://img.shields.io/badge/Code-R-green" >  <img src = "https://img.shields.io/badge/Tools-PostgreSQL-blue" >  <img src = "https://img.shields.io/badge/Tools-Tableau-yellow" >  <img src = "https://img.shields.io/badge/Code-SAS-blueviolet" >
 
-"Just because something works doesn't mean it can't be improved"  - Shuri, Black Panther
+### "Just because something works doesn't mean it can't be improved"  - Shuri, Black Panther
 
 
 You can find me on,
