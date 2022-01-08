@@ -1,4 +1,4 @@
-<img src = "https://github.com/basanth2191/basanth2191/blob/main/download.png" >
+<h2> Hi 👋 </h2>
 
 -  👀 I love analyzing why things work the way they work and how it can be done more efficiently. I am fascinated by topics such as machine learning, dimension reduction, and transformation of statistical distributions since they simplify the work in finding answers.
 - 🌱 I am currently learning web-scrapping and plan to learn cloud computing next.
