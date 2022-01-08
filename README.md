@@ -6,7 +6,7 @@ A little about me,
 
 -  👀 I love analyzing why things work the way they work and how it can be done more efficiently. I am fascinated by topics such as machine learning, dimension reduction, and transformation of statistical distributions since they simplify the work in finding answers.
 - 🌱 I am currently learning web-scrapping and plan to learn cloud computing next.
-- 🤝 Feel free to contact me if you would like to share ideas or work together.
+- 🤝 Feel free to contact me or add me on linkedin if you would like to share ideas or work or learn together.
 
 Skills
 
