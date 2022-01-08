@@ -1,4 +1,4 @@
-# Hi  <img src = "https://github.com/basanth2191/basanth2191/blob/main/wave.gif" >
+# Hi  <img src = "https://github.com/basanth2191/basanth2191/blob/main/wave.gif" width = "30px" >
 
 I am Basanth Shankar and welcome to my page.
 
