@@ -1,6 +1,6 @@
 # Hi  <img src = "https://github.com/basanth2191/basanth2191/blob/main/wave.gif" width = "30px" >
 
-I am <b> Basanth Shankar </b> and welcome to my page.
+< img src = "https://github.com/basanth2191/basanth2191/blob/main/header.gif" >
 
 A little about me,
 
