@@ -8,11 +8,11 @@ A little about me,
 - 🌱 I am currently learning web-scrapping and plan to learn cloud computing next.
 - 🤝 Feel free to contact me or add me on linkedin if you would like to share ideas or work or learn together.
 
-### Skills
+##### Skills
 
 <img src = "https://img.shields.io/badge/Code-Python-red" >  <img src = "https://img.shields.io/badge/Code-R-green" >  <img src = "https://img.shields.io/badge/Tools-PostgreSQL-blue" >  <img src = "https://img.shields.io/badge/Tools-Tableau-yellow" >  <img src = "https://img.shields.io/badge/Code-SAS-blueviolet" >
 
-### "Just because something works doesn't mean it can't be improved"  - Shuri, Black Panther
+##### "Just because something works doesn't mean it can't be improved"  - Shuri, Black Panther
 
 
 You can find me on,
